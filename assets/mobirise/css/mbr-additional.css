@@ -2588,6 +2588,23 @@ body {
 .cid-qRDva3zIJE .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-qRVfAHezBM {
+  background-image: url("../../../assets/images/11-852x480.jpg");
+}
+.cid-qRVfMb05vq {
+  background: linear-gradient(45deg, #7ffbb8, #a365e5);
+}
+.cid-qRVfMb05vq .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
+.cid-qRVfMb05vq .mbr-section-title,
+.cid-qRVfMb05vq .mbr-section-btn {
+  text-align: center;
+}
+.cid-qRVfMb05vq P {
+  text-align: center;
+}
 .cid-qRDva3zIJE .navbar {
   padding: .5rem 0;
   background: #333333;
